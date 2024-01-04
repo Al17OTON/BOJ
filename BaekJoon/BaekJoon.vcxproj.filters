@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Unsolved">
+      <UniqueIdentifier>{69348ad4-a8ba-4347-a27e-64018fd78c11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ReviewQueue">
+      <UniqueIdentifier>{0e6346bf-16bb-4e83-b353-83b82247e244}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BaekJoon.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12100_2048_Easy.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3190_뱀.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13460_구슬탈출2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13458_시험감독.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14500_테트로미노.cpp">
+      <Filter>소스 파일\Unsolved</Filter>
+    </ClCompile>
+    <ClCompile Include="1037_약수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="25192_인사성밝은곰곰이.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1715_카드정렬하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7576_토마토.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9935_문자열폭발.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="16139_인간-컴퓨터상호작용.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="14499_주사위굴리기.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="1202_보석도둑.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="1744_수묶기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1339_단어수학.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15903_카드합체놀이.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7569_토마토.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1700_멀티탭스케줄링.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16496_큰수만들기.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="14939_불끄기.cpp">
+      <Filter>소스 파일\Unsolved</Filter>
+    </ClCompile>
+    <ClCompile Include="3109_빵집.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2437_저울.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="11000_강의실배정.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="2212_센서.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="12904_A와B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1449_수리공항승.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1783_병든나이트.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="1002_터렛.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="18310_안테나.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="16953_A2B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10775_공항.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="1717_집합의표현.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1976_여행가자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4195_친구네트워크.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20040_사이클게임.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="1654_랜선자르기.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="2805_나무자르기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2110_공유기설치.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="1300_K번째수.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="2630_색종이만들기_DFS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2630_색종이만들기_분할정복.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1992_쿼드트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11401_이항계수3.cpp">
+      <Filter>소스 파일\ReviewQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="2740_행렬곱셈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10807_개수세기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19532_수학은비대면강의입니다.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14916_거스름돈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2847_게임을만든동준이.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
