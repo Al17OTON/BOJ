@@ -19,6 +19,21 @@
     <Filter Include="소스 파일\ReviewQueue">
       <UniqueIdentifier>{0e6346bf-16bb-4e83-b353-83b82247e244}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SWEA">
+      <UniqueIdentifier>{aac7c182-6978-4016-8b2a-17b48bd11c22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SWEA\1213">
+      <UniqueIdentifier>{b7e45424-fa9e-4512-a935-caded7bd4c8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SWEA\1216">
+      <UniqueIdentifier>{4d4b2d28-cf0f-4b3c-a8c5-1bf2142bb648}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SWEA\1953">
+      <UniqueIdentifier>{31b5ea10-8aae-4f43-a6d7-ecb0922c5a5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\SWEA\Unsolved">
+      <UniqueIdentifier>{f861bc79-1eb3-48a8-aa15-bc56fbff53db}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BaekJoon.cpp">
@@ -167,6 +182,90 @@
     </ClCompile>
     <ClCompile Include="2847_게임을만든동준이.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1209.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1210_Ladder1.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1215.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1220.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1225.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1226_미로1.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1238_Contact.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1249.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1289.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1824_혁진이의프로그램검증.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1860_진기의붕어빵.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1861_정사각형방.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1493_수의새로운연산.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\2814.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\2817.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\2819_격자판숫자.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\5215.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\4615_오셀로게임.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\3752.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\copyTemplete.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1213_String.cpp">
+      <Filter>소스 파일\SWEA\1213</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1213_String_usestring.cpp">
+      <Filter>소스 파일\SWEA\1213</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1216_faster.cpp">
+      <Filter>소스 파일\SWEA\1216</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1216_stack.cpp">
+      <Filter>소스 파일\SWEA\1216</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1953DFS.cpp">
+      <Filter>소스 파일\SWEA\1953</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1953BFS.cpp">
+      <Filter>소스 파일\SWEA\1953</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1953BFS_CustomQueue.cpp">
+      <Filter>소스 파일\SWEA\1953</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA\1868_지뢰찾기.cpp">
+      <Filter>소스 파일\SWEA\Unsolved</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
