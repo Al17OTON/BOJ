@@ -267,5 +267,8 @@
     <ClCompile Include="SWEA\1868_지뢰찾기.cpp">
       <Filter>소스 파일\SWEA\Unsolved</Filter>
     </ClCompile>
+    <ClCompile Include="2001_파리퇴치.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
